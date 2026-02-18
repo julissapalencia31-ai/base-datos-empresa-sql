@@ -24,5 +24,5 @@ Conceptos practicados
 - HAVING
 - Claves foráneas (FOREIGN KEY)
 
-## 💡 Objetivo del proyecto
+Objetivo del proyecto
 Practicar consultas SQL similares a las que pueden solicitarse en entrevistas técnicas para puestos de Analista de Datos o desarrollador junior.
